@@ -42,7 +42,7 @@ This article summarizes supported configurations and components for Azure Site R
 
 **Deployment** | **Support**
 --- | ---
-**VMware VM/physical server** | vSphere 6.0, 5.5, or 5.1 with latest update
+**VMware vSphere** | vSphere 6.0, 5.5, or 5.1 with latest update
 **Hyper-V (with Virtual Machine Manager)** | System Center Virtual Machine Manager 2016 and System Center Virtual Machine Manager 2012 R2
 
   >[!Note]
@@ -52,7 +52,7 @@ This article summarizes supported configurations and components for Azure Site R
 
 **Deployment** | **Support**
 --- | ---
-**VMware VM/physical server** | vCenter 5.5 or 6.0 (support for 5.5 features only)
+**VMware ESXi** | vCenter 5.5 or 6.0 (support for 5.5 features only)
 **Hyper-V (with/without Virtual Machine Manager)** | Windows Server 2016, Windows Server 2012 R2 with latest updates.<br></br>If SCVMM is used, Windows Server 2016 hosts should be managed by SCVMM 2016.
 
 
